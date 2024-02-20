@@ -5,7 +5,7 @@ let numDobra = parseInt (prompt ("informe o numero que te direi o Dobro"));
 
 
 function dobra(x){
-    return (x = x * 2);
+    return (x = x * 4);
     
 }
 
