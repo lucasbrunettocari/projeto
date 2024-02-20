@@ -19,7 +19,7 @@ function exibeNome (name) {
 }
 
 
-
+//teste de commit
 hello();
 exibeNome(nome);
 console.log(dobra(numDobra));
